@@ -1,4 +1,7 @@
 # 💫 About Me:
+I have high devotion to full-stack software development. Apart from getting a perfect GPA in every course, I also self-learned various tech stacks like Angular, Vue, React, Node.js, Spring boot, etc from online courses. After each school and online course, I always initiated an individual or group project to practice what I learned. I also accumulated hands-on experience as a software engineer intern at NOUS Imaging, Inc.
+Continual knowledge acquiring and learning is a life-long project which I intend to manage. That is why I applied for a second major in Information System Management. I believe that for engineers, we not only need to focus on cutting-edge tech stack but also need to see that bigger picture of the company to continually improve the enterprise architecture. With the management skills and frameworks I learned, I am confident that I can develop myself into a tech lead in the future.
+<br>
 🌱 I’m currently learning: redux and graphQL<br><br>💬 Ask me about: full-stack dev<br><br>📫 How to reach me: g.bao@wustl.edu<br><br>⚡ Fun fact: I watch to many movies
 
 
