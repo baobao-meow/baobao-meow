@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning redux and graphQL<br><br>💬 Ask me about full-stack dev<br><br>📫 How to reach me g.bao@wustl.edu<br><br>⚡ Fun fact I watch to many movies
+🌱 I’m currently learning: redux and graphQL<br><br>💬 Ask me about: full-stack dev<br><br>📫 How to reach me: g.bao@wustl.edu<br><br>⚡ Fun fact: I watch to many movies
 
 
 ## 🌐 Socials:
