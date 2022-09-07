@@ -3,7 +3,7 @@ I have high devotion to full-stack software development. Apart from getting a pe
 Continual knowledge acquiring and learning is a life-long project which I intend to manage. That is why I applied for a second major in Information System Management. I believe that for engineers, we not only need to focus on cutting-edge tech stack but also need to see that bigger picture of the company to continually improve the enterprise architecture. With the management skills and frameworks I learned, I am confident that I can develop myself into a tech lead in the future.
 <br>
 <br>
-🌱 I’m currently learning: redux and graphQL<br><br>💬 Ask me about: full-stack dev<br><br>📫 How to reach me: g.bao@wustl.edu<br><br>⚡ Fun fact: I watch to many movies
+🌱 I’m currently learning: redux and graphQL<br><br>💬 Ask me about: full-stack dev<br><br>📫 How to reach me: g.bao@wustl.edu<br><br>⚡ Fun fact: I watch too many movies
 
 
 ## 🌐 Socials:
